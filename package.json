@@ -1,0 +1,14 @@
+{
+  "name": "study_app",
+  "version": "0.0.1",
+  "description": "Exercises to try Node.js",
+  "main": "app.js",
+  "directories": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.0"
+  }
+}
